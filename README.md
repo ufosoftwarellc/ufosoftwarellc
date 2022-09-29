@@ -1,3 +1,3 @@
 ### UFO Software, LLC
 
-My interests are machine mearning, computer vision, data science and music.
+My interests are machine learning, computer vision, data science and music.
